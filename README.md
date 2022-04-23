@@ -26,3 +26,4 @@
 
 - ### シートを保護
   ![image](https://user-images.githubusercontent.com/1501327/164894498-f66a7cb2-04f4-4ba0-a3de-20960a0ced6c.png)
+  - シート単位で権限設定

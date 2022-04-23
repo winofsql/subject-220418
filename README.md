@@ -18,5 +18,5 @@
 
 - ### シートと範囲を保護
   ![image](https://user-images.githubusercontent.com/1501327/164894113-a0fe518b-7859-4783-addf-eaa68d823214.png)\
-  ![image](https://user-images.githubusercontent.com/1501327/164894133-ad4efeb5-b473-4968-bda1-e1e50555e087.png)
+  ![image](https://user-images.githubusercontent.com/1501327/164894150-e436c967-e828-423a-88fa-dbec1fad173b.png)
 

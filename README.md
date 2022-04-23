@@ -16,4 +16,5 @@
   - 全て
     - リンクを知る人全て
 
-
+- ### シートと範囲を保護
+  ![image](https://user-images.githubusercontent.com/1501327/164894113-a0fe518b-7859-4783-addf-eaa68d823214.png)

@@ -13,5 +13,5 @@
   - グループ
     - 同じ組織は全て
   - 全て
-    - リンクを知る人全て\
-  ![image](https://user-images.githubusercontent.com/1501327/164893942-c4fa4fa4-ef9b-4320-a87e-66b57207addd.png)
+    - リンクを知る人全て
+![image](https://user-images.githubusercontent.com/1501327/164893942-c4fa4fa4-ef9b-4320-a87e-66b57207addd.png)

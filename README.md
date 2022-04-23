@@ -25,4 +25,4 @@
   - ユーザによって、セル単位に権限を設定する
 
 - ### シートを保護
-  ![image](https://user-images.githubusercontent.com/1501327/164894474-c575b3cb-6d70-4a16-b72f-f2d50e63651d.png)
+  ![image](https://user-images.githubusercontent.com/1501327/164894498-f66a7cb2-04f4-4ba0-a3de-20960a0ced6c.png)

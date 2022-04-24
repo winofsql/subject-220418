@@ -19,7 +19,7 @@
 - ### シートと範囲を保護
   ![image](https://user-images.githubusercontent.com/1501327/164894113-a0fe518b-7859-4783-addf-eaa68d823214.png)\
   ![image](https://user-images.githubusercontent.com/1501327/164894150-e436c967-e828-423a-88fa-dbec1fad173b.png)\
-  ![image](https://user-images.githubusercontent.com/1501327/164894170-14447e74-254b-4559-b8a6-5a4f24c641a8.png)\
+  ![image](https://user-images.githubusercontent.com/1501327/164957393-a92afdef-bab4-461a-9ffc-78292ac35aee.png)
   ![image](https://user-images.githubusercontent.com/1501327/164894221-24178a7c-c77a-4b3e-a501-296897453a32.png)\
   ![image](https://user-images.githubusercontent.com/1501327/164894279-3bfdbbdb-8506-4ccf-8b62-302fb90179d1.png)
   - ユーザによって、セル単位に権限を設定する

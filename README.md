@@ -3,7 +3,7 @@
 ## Google スプレッドシートの共有
 - ### ユーザやグループとの共有
   ![image](https://user-images.githubusercontent.com/1501327/164893761-53713702-8624-4a56-87c0-ec620e8b6801.png)\
-  ![image](https://user-images.githubusercontent.com/1501327/164957459-3bcde1df-9ca1-4c33-910d-e6fd67921d6c.png)
+  ![image](https://user-images.githubusercontent.com/1501327/164957475-8a9c8667-e27c-402d-818b-b3e7432e3068.png)
 
 
 - ### リンクで共有

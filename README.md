@@ -17,7 +17,7 @@
     - リンクを知る人全て
 
 - ### シートと範囲を保護
-  ![image](https://user-images.githubusercontent.com/1501327/164894113-a0fe518b-7859-4783-addf-eaa68d823214.png)\
+  ![image](https://user-images.githubusercontent.com/1501327/164957436-2b6c86fe-df34-4895-bcf2-ba1e016856ec.png)\
   ![image](https://user-images.githubusercontent.com/1501327/164957424-64b30998-241b-4182-bfdb-e6da7b14550e.png)\
   ![image](https://user-images.githubusercontent.com/1501327/164957393-a92afdef-bab4-461a-9ffc-78292ac35aee.png)\
   ![image](https://user-images.githubusercontent.com/1501327/164894221-24178a7c-c77a-4b3e-a501-296897453a32.png)\

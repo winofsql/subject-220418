@@ -25,5 +25,5 @@
   - ユーザによって、セル単位に権限を設定する
 
 - ### シートを保護
-  ![image](https://user-images.githubusercontent.com/1501327/164894498-f66a7cb2-04f4-4ba0-a3de-20960a0ced6c.png)
+  ![image](https://user-images.githubusercontent.com/1501327/164957380-d6096882-a321-4f7b-b51b-ee6413c73092.png)
   - シート単位で権限設定

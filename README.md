@@ -8,7 +8,7 @@
 
 - ### リンクで共有
   ![image](https://user-images.githubusercontent.com/1501327/164893833-084b8300-35b5-4fd1-b3f8-d5ea7312e4b2.png)\
-  ![image](https://user-images.githubusercontent.com/1501327/164893942-c4fa4fa4-ef9b-4320-a87e-66b57207addd.png)
+  ![image](https://user-images.githubusercontent.com/1501327/164957489-a8eee06c-ccec-4492-963f-97e3933bccec.png)
   - 制限付き
     - 登録されたユーザやグループのみ
   - グループ
